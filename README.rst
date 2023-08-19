@@ -1,24 +1,6 @@
 django-taggit
 =============
 
-.. image:: https://jazzband.co/static/img/badge.svg
-   :target: https://jazzband.co/
-   :alt: Jazzband
-
-.. image:: https://img.shields.io/pypi/pyversions/django-taggit.svg
-   :target: https://pypi.org/project/django-taggit/
-   :alt: Supported Python versions
-
-.. image:: https://img.shields.io/pypi/djversions/django-taggit.svg
-   :target: https://pypi.org/project/django-taggit/
-   :alt: Supported Django versions
-
-.. image:: https://github.com/jazzband/django-taggit/workflows/Test/badge.svg
-   :target: https://github.com/jazzband/django-taggit/actions
-   :alt: GitHub Actions
-
-.. image:: https://codecov.io/gh/jazzband/django-taggit/coverage.svg?branch=master
-    :target: https://codecov.io/gh/jazzband/django-taggit?branch=master
 
 This is a `Jazzband <https://jazzband.co>`_ project. By contributing you agree
 to abide by the `Contributor Code of Conduct
